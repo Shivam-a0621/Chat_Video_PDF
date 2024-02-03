@@ -10,7 +10,7 @@ Libraries and tools used
 ```
 
 
-
+### Sample Image
 ![Sample Image of the Chat BOT ](https://github.com/Shivam-a0621/Chat_Video_PDF/blob/main/image.png?raw=false)https://github.com/Shivam-a0621/Chat_Video_PDF/blob/main/image.png?raw=false)
 
 ## Process
